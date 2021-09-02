@@ -1,0 +1,10 @@
+name: StaffGUI
+version: ${project.version}
+main: me.stroyer.staffgui.main.Main
+api-version: 1.17
+prefix:
+  StaffGUI:
+load: STARTUP
+authors: [ Stroyer_ ]
+description: Plugin which allows staff to use a GUI
+website: github.com
